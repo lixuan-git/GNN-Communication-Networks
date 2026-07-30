@@ -31,6 +31,16 @@ The list would be updated monthly.
 
 ## 2026
 ### Journal
+* Hao F, Xiao L, Chongtao G, et al. <b>AoI-driven queue management and power control in V2V networks: A GNN-enhanced MARL approach[J]</b>. China Communications, 2026, 23(4): 292-311. [Link](https://ieeexplore.ieee.org/abstract/document/11603984/)
+* Hou Y, Lu Y, Chen W, et al. <b>NOMANet: A graph neural network enabled power allocation scheme for NOMA[J]</b>. IEEE Transactions on Vehicular Technology, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11355822/)
+* Xie J, Guo J, Wang S, et al. <b>Meta-Learning-Enhanced GNN Approach for Signal Compression in Uplink Cell-Free MIMO Networks[J]</b>. IEEE Transactions on Vehicular Technology, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11363428/)
+* Zhang S, Zhao Y, Yang K, et al. <b>Data Detection and Resource Allocation for Distributed Two-Way Cell-Free Network: A Graph Attention Network-Based Approach[J]</b>. IEEE Transactions on Vehicular Technology, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11367340/)
+* Omer M B, Sun G, Ayepah-Mensah D, et al. <b>MARLA-TGN: A Framework for Dynamic Privacy-Preserving VNF Auctions in Space-Ground Integrated 6G Networks[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11534252/)
+* Li C, Chen X, Liu G, et al. <b>ST-GCN and Reinforcement Learning-Assisted Dynamic Multi-Strategy Task Offloading in Edge-IoT Vehicular Networks[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11534596/)
+* Wang J, Tan W, Ouyang Z, et al. <b>Dual-Trust Graph Attention Network for Malicious Device Detection in Internet of Things[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11534268/)
+* Wang L, Wei Z, Mao B, et al. <b>Energy Efficient Federated Learning Over Wireless Networks: A GNN-assisted Deep Reinforcement Learning Approach[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11505864/)
+* Li F, Hu H, Jiang Y, et al. <b>Attack Path Planning in 5G-ICPS Penetration Testing: Leveraging TGNN and DRL for Large-scale Network[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11488219/)
+* Zhang P, Chen S, Fan J, et al. <b>Adaptive Orchestration of Service Function Chains in SAGIN-MEC via Graph Reinforcement Learning[J]</b>. IEEE Transactions on Mobile Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11409361/)
 * Gu Y, Zhou H, Liu C, et al. <b>A Hierarchical GNN-based Multi-Agent Framework for Workflow Scheduling in Hybrid Clouds Considering Privacy Constraints[J]</b>. IEEE Transactions on Services Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11478352/)
 * Yue Y, Li Z, Shi J, et al. <b>Complex-Valued GNN Based Detector for OTFS Signal under Imperfect Channel Information[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11482126/)
 * Wang X, Zhang C, Wu F, et al. <b>GAT-HDRL: Hierarchical Deep Reinforcement Learning with Graph Attention Network for Real-Time Scheduling of Satellite Task Flows[J]</b>. IEEE Transactions on Vehicular Technology, 2025. [Link](https://ieeexplore.ieee.org/abstract/document/11264375/)
