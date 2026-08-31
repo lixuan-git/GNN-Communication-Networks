@@ -31,6 +31,13 @@ The list would be updated monthly.
 
 ## 2026
 ### Journal
+* Xiao B, Guo Y, Chen X. <b>Achieving Load Balancing for Multi-Edge Collaboration in WMANs: An Adaptive Graph Reinforcement Learning Method[J]</b>. IEEE Transactions on Mobile Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11456194/)
+* Peng Y, Wu J, Duan T, et al. <b>Decentralized Topology Robustness Optimization for IoT via Multi-Agent Graph Reinforcement Learning[J]</b>. IEEE Transactions on Mobile Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11471037/)
+* Yin R, Yang Y, Qin H, et al. <b>Graph Neural Network and Deep Reinforcement Learning Based Approach for V2V Resource Allocation[J]</b>. Physical Communication, 2026: 103295. [Link](https://www.sciencedirect.com/science/article/pii/S1874490726003046)
+* Zhang H, Jiang Y, Deng X, et al. <b>GraphKANLoc: Physics-Informed Heterogeneous Graph Attention Networks with KAN Regression for Indoor Localization[J]</b>. IEEE Transactions on Mobile Computing, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11501755/)
+* Han X, Qi K, Pan L, et al. <b>GT-MARL: Graph-and Transformer-Enhanced Multi-Agent Reinforcement Learning for Cloud-Edge Collaborative Scheduling[J]</b>. IEEE Internet of Things Journal, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11563455/)
+* Huang H, Cui H, Cao P, et al. <b>Max-Min Fair Resource Allocation for Rate-Splitting Multiple Access With Graph Neural Networks[J]</b>. IEEE Transactions on Vehicular Technology, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11423906/)
+* Chongdarakul W, Yongcharoenchaiyasit K, Aunsri N, et al. <b>Optimizing data analytics workflow scheduling in cloud-fog computing with GNNs[J]</b>. Future Generation Computer Systems, 2026: 108703. [Link](https://www.sciencedirect.com/science/article/pii/S0167739X26003377)
 * Hao F, Xiao L, Chongtao G, et al. <b>AoI-driven queue management and power control in V2V networks: A GNN-enhanced MARL approach[J]</b>. China Communications, 2026, 23(4): 292-311. [Link](https://ieeexplore.ieee.org/abstract/document/11603984/)
 * Hou Y, Lu Y, Chen W, et al. <b>NOMANet: A graph neural network enabled power allocation scheme for NOMA[J]</b>. IEEE Transactions on Vehicular Technology, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11355822/)
 * Xie J, Guo J, Wang S, et al. <b>Meta-Learning-Enhanced GNN Approach for Signal Compression in Uplink Cell-Free MIMO Networks[J]</b>. IEEE Transactions on Vehicular Technology, 2026. [Link](https://ieeexplore.ieee.org/abstract/document/11363428/)
@@ -74,6 +81,7 @@ The list would be updated monthly.
 * Xu J, Chen C, Dai Q, et al. <b>Sparse QoS prediction for cloud services via inductive subgraph pattern aware graph neural network[J]</b>. Computer Communications, 2026, 248: 108415. [Link](https://www.sciencedirect.com/science/article/pii/S0140366426000058)
 
 ### Conference
+* Tarzjani F D, Krishnamachari B. <b>Learning Wireless Interference Patterns: Decoupled GNN for Throughput Prediction in Heterogeneous Multi-Hop p-CSMA Networks[C]</b>//2026 24th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt). IEEE, 2026: 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/11568222/) [Code](https://github.com/ANRGUSC/predictCSMA)
 * Afrin F, Moghim N, Bouk S H, et al. <b>Multi-scale Graph Neural Network for Low-SNR Wireless Signal Classification[C]</b>//2026 IEEE 23rd Consumer Communications & Networking Conference (CCNC). IEEE, 2026: 1-7. [Link](https://ieeexplore.ieee.org/abstract/document/11366565/)
 
 ## 2025
